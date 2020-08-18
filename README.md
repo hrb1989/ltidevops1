@@ -10,3 +10,9 @@ where is mobina
 i dnt know
 hi ipsta
 creating conflicts by mobina
+Creating some conflicts by HRB
+hello
+new data
+edit mergetool by mobina
+solving merge conflict 
+

@@ -10,4 +10,9 @@ where is mobina
 i dnt know
 hi ipsta
 Creating some conflicts by HRB
+<<<<<<< HEAD
 Merge check by HRB
+=======
+hello
+new data
+>>>>>>> d5143e63b1dfa09e12e21529f9ecdf037516b818

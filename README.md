@@ -16,7 +16,14 @@ hello Bindu
 where is mobina
 i dnt know
 hi ipsta
+creating conflicts by mobina
 Creating some conflicts by HRB
 hello
 new data
+<<<<<<< HEAD
+=======
+edit mergetool by mobina
+solving merge conflict 
+>>>>>>> 98a5000090bb2dfbcb87409688c0e959c7cb87c0
 
+conflict solved

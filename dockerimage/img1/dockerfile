@@ -1,0 +1,9 @@
+#This is a First try of custom image creation using dockerfile
+#Author - HRB
+FROM busybox
+MAINTAINER info@mjit.in
+
+RUN mkdir hrb
+WORKDIR hrb
+RUN touch file1
+CMD ["echo","This is HRB Created Image"]

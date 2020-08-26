@@ -2,6 +2,6 @@ FROM centos:centos7
 MAINTAINER info@mjit.in
 
 RUN yum install httpd -y
-COPY C:\\user\\shrb\\desktop\\index.html /var/www/html/hrb/index.html
-CMD ["/usr/sbin/httpd -D FOREGROUND"]
+COPY ./public-html/ /usr/local/apache2/htdocs/
+# CMD ["/usr/sbin/httpd", " -D", " FOREGROUND"]
 EXPOSE 80
